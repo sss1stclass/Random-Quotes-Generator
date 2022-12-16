@@ -1,3 +1,3 @@
 # Random-Quotes-Generator
 This is a simple react+vite+ts random quote generator. where after clicking next one or refreshing the page it will render new quotes...
-Live on :- https://random-quotes-generator-phi.vercel.app/
+# Live on :- https://random-quotes-generator-phi.vercel.app/
